@@ -1,6 +1,6 @@
 ### Hi there 👋 🙂
 
-- 🔭 I’m currently working on [Zwitch Dashboard](http://dashboard.zwitch.io)
+- 🔭 I’m currently working on [Zwitch Dashboard](https://dashboard.zwitch.io)
 
 - 👨🏻‍💻 I’m currently working on Angular, TypeScript, Tailwind, Material UI
 
